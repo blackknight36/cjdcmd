@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/inhies/go-cjdns/admin"
+	"github.com/blackknight36/go-cjdns/admin"
 	"math"
 )
 
